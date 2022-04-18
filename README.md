@@ -9,7 +9,7 @@ Final Project for the Distributed Computing 2022-2 class, taught by Dr. Victor d
 > 
 > Miriam Guadalupe Valdez | mirluvams@gmail.com | ([@mirluvams](https://github.com/mirluvams))
 > 
-> Luis David Huante | luisdhuante@gmail.com | ([@LuisDHuante](https://github.com/LuisDHuante))
+> Luis David Huante García | luisdhuante@gmail.com | ([@LuisDHuante](https://github.com/LuisDHuante))
 
 
 # Introduction
