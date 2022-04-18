@@ -7,7 +7,7 @@ Final Project for the Distributed Computing 2022-2 class, taught by Dr. Victor d
 >
 > Alexis Hassiel Nuviedo Arriaga ([@nuviedo](https://github.com/nuviedo))
 > 
-> Miriam Guadalupe Valdéz ([@mirluvams](https://github.com/mirluvams))
+> Miriam Guadalupe Valdez ([@mirluvams](https://github.com/mirluvams))
 > 
 > Luis David Huante ([@LuisDHuante](https://github.com/LuisDHuante))
 
