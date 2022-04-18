@@ -1,7 +1,7 @@
 # Visualization of worldwide flights using Distributed Computing 
 ## Affiliation
 
-Final Project for the Distributed Computing 2022-2 class, taught by Dr. Victor de la Luz at the _Universidad Nacional Autónoma de México_ (National Autonomous University of México | UNAM), in its _Escuela Nacional de Estudios Superiores Unidad Morelia_ Campus (National School of Superior-Level Studies, _Morelia_ Campus | ENES Morelia), as part of its _Licenciatura en Tecnologías para la Información en Ciencias_ career plan (Bs. in Information Technologies applied to Science | L.T.I.C.).
+Final Project for the Distributed Computing 2022-2 class, taught by Dr. Victor de la Luz at the _National Autonomous University of México_ (UNAM), in its  National School of Superior-Level Studies, _Morelia_ Campus (ENES Morelia), as part of its _Bs. in Information Technologies applied to Science_ career plan.
 
 > DEVELOPED BY:
 >
