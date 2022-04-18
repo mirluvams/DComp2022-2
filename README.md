@@ -45,6 +45,7 @@ The project is to be developed by making use of modern Python 3 libraries, inclu
 * [Folium](https://github.com/python-visualization/folium), a wrapper to the [Leaflet.js](https://leafletjs.com/) JavaScript mapping library.
 * [NumPy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
+
 Additionally, it plans to make use of the following web technologies, on top of the usual development stack:
 * [Apache HTTPD](https://httpd.apache.org/)
 * [MariaDB](https://mariadb.org/)
