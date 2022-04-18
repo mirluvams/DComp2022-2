@@ -42,9 +42,9 @@ In charge of displaying map images to the end user through a modern web interfac
 # Toolset
 The project is to be developed by making use of modern Python 3 libraries, including but not limited to:
 * [The OpenSky Network API](https://opensky-network.org/) for data collection of near-real time flight information. 
-* [Folium](https://github.com/python-visualization/folium), a wrapper to the [Leaflet.js](https://leafletjs.com/) JavaScript mapping library. v. 0.12.1
-* [NumPy](https://numpy.org/) v. 1.22.3
-* [Pandas](https://pandas.pydata.org/) v. 1.4.2
+* [Folium](https://github.com/python-visualization/folium), a wrapper to the [Leaflet.js](https://leafletjs.com/) JavaScript mapping library. | v. 0.12.1
+* [NumPy](https://numpy.org/) | v. 1.22.3
+* [Pandas](https://pandas.pydata.org/) | v. 1.4.2
 
 Additionally, it plans to make use of the following web technologies, on top of the usual development stack:
 * [Apache HTTPD](https://httpd.apache.org/)
