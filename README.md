@@ -1,14 +1,12 @@
 # Visualization of worldwide flights using Distributed Computing 
 # Affiliation
-![fondo-web2-10A-ENES](https://user-images.githubusercontent.com/100146672/160222385-4576c60e-1005-4753-b34d-c5461658c11b.png)
-
 Final Project for the Distributed Computing 2022-2 class, taught by Dr. Victor de la Luz at the _Universidad Nacional Autónoma de México_ (National Autonomous University of México | UNAM), in its _Escuela Nacional de Estudios Superiores Unidad Morelia_ Campus (National School of Superior-Level Studies, _Morelia_ Campus | ENES Morelia), as part of its _Licenciatura en Tecnologías para la Información en Ciencias_ career plan (Bs. in Information Technologies applied to Science | L.T.I.C.).
 
 > DEVELOPED BY:
 >
 > Alexis Hassiel Nuviedo Arriaga ([@nuviedo](https://github.com/nuviedo))
 > 
-> Miriam Guadalupe Valdez ([@mirluvams](https://github.com/mirluvams))
+> Miriam Guadalupe Valdez | mirluvams@gmail.com ([@mirluvams](https://github.com/mirluvams))
 > 
 > Luis David Huante ([@LuisDHuante](https://github.com/LuisDHuante))
 
@@ -20,7 +18,7 @@ The need for such a project stems mainly out of curiosity, as the patterns of fl
 
 As a final project, this aims to be a practical demostration of how a series of computers in parallel can be used to obtain an easily scalable product that could potentially be commercialized and expanded upon once completed, without relying on a single, high performance computer to perform the entire process.
 
-# General Objective
+# Objectives
 The expected output of this project is a set of four servers, each of which provide an essential part of the project. Their denomination is as follows:
 
 > Data Retrieval Server
