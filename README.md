@@ -3,31 +3,53 @@
 
 Final Project for the Distributed Computing 2022-2 class, taught by Dr. Victor de la Luz at the _Universidad Nacional Autónoma de México_ (National Autonomous University of México | UNAM), in its _Escuela Nacional de Estudios Superiores Unidad Morelia_ Campus (National School of Superior-Level Studies, _Morelia_ Campus | ENES Morelia), as part of its _Licenciatura en Tecnologías para la Información en Ciencias_ career plan (Bs. in Information Technologies applied to Science | L.T.I.C.).
 
-> Project Manager: Alexis Hassiel Nuviedo Arriaga ([@nuviedo](https://github.com/nuviedo))
+> DEVELOPED BY:
+>
+> Alexis Hassiel Nuviedo Arriaga ([@nuviedo](https://github.com/nuviedo))
 > 
-> Lead Developer: Miriam Guadalupe Valdez ([@mirluvams](https://github.com/mirluvams))
+> Miriam Guadalupe Valdéz ([@mirluvams](https://github.com/mirluvams))
 > 
-> Head of Public Relations: Luis David Huante ([@LuisDHuante](https://github.com/LuisDHuante))
+> Luis David Huante ([@LuisDHuante](https://github.com/LuisDHuante))
 
 
 # Introduction
-The following project documents the practical application of several distributed computing systems to obtain an accurate respresentation of international flights around the globe, through the analysis of results from the [_OpenSky Network_]https://openskynetwork.github.io/opensky-api/python.html) (OpenSky Network | OpenSky) by making use of their realtime data reports through the (link of API) to obtain the raw data required for the analysis, through the processses of four main servers: collecting and pulling data from OpenSky, storing and analyzing a database using SQL, creating a realtime map based on specific requirements, displaying the map using a web service, all the while making use of modern data science libraries.
+The following project intends to provide a functional endpoint in which a potential user can visualize a map containing worldwide flight routes in real time. 
 
-#Justification
+The need for such a project stems mainly out of curiosity, as the patterns of flight of a population can aid in the understanding of the global situation as a whole, such as, for example, visualizing armed conflicts or trade associations.
 
-The need for such a project stems from a simple way to see real-time flights around the globe given that 
-
+As a final project, this aims to be a practical demostration of how a series of computers in parallel can be used to obtain an easily scalable product that could potentially be commercialized and expanded upon once completed, without relying on a single, high performance computer to perform the entire process.
 
 # General Objective
-The expected output of this project is a representation of real-time flights around the globe shown on a map. Said representations are to be obtained through the use of concise mapping APIs, showcasing the airplains moving according to their specific information, for example, origin and destiny.
+The expected output of this project is a set of four servers, each of which provide an essential part of the project. Their denomination is as follows:
+
+> Data Retrieval Server
+
+In charge of obtaining real-time data from the OpenSky Network API, through the use of Python. Will relay said information in a timely manner to the Storage Server.
+
+> Storage Server
+
+In charge of storing historical data, to be sorted and retrieved as needed by the Processing Server.
+
+> Processing Server
+
+In charge of generating map images on demand, based on the request by the Web Server API
+
+> Web Server
+
+In charge of displaying map images to the end user through a modern web interface
+
 
 # Toolset
-The project is expected to be developed making use of several python 3.10+ libraries, such as the following:
-
-* NumPy: [https://numpy.org/] 
-* Pandas: [https://pandas.pydata.org/]
-* OpenSky: [http://opensky.org/]
-* SQL: [https://sql.org/]
+The project is to be developed by making use of modern Python 3 libraries, including but not limited to:
+* [The OpenSky Network API](https://opensky-network.org/) for data collection of near-real time flight information. 
+* [Folium](https://github.com/python-visualization/folium), a wrapper to the [Leaflet.js](https://leafletjs.com/) JavaScript mapping library.
+* [NumPy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+Additionally, it plans to make use of the following web technologies, on top of the usual development stack:
+* [Apache HTTPD](https://httpd.apache.org/)
+* [MariaDB](https://mariadb.org/)
+* [PHP](https://www.php.net/)
+* [Bootstrap](https://getbootstrap.com/)
 
 # Methodology
 ...
@@ -41,3 +63,10 @@ The project is expected to be developed making use of several python 3.10+ libra
 
 # Results
 ...
+
+
+
+# Conclusions
+...
+
+
